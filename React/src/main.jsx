@@ -10,8 +10,6 @@ import Context from './Props/Context API/Context.jsx'
 
 createRoot(document.getElementById('root')).render(
      <Context >
-
           <App />
-          
      </Context>
 )
