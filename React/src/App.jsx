@@ -1,12 +1,22 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import Actual from './Props/Top-Down/Actual'
 
-function App() {
+import CheckContext from './Props/Context API/CheckContext'
+
+import TailwindCss from './TailwindCss'
+
+function App() {  
 
   return (
     <>
+
+    {/* <Actual /> */}
+
+    <TailwindCss />
+
+    {/* <CheckContext /> */}
+
+
+
      
     </>
   )
