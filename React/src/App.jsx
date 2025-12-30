@@ -2,7 +2,7 @@ import Actual from './Props/Top-Down/Actual'
 
 import CheckContext from './Props/Context API/CheckContext'
 
-import TailwindCss from './TailwindCss'
+import TailwindCss from './Tailwind CSS/TailwindCss'
 
 function App() {  
 
