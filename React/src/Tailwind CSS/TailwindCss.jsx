@@ -1,6 +1,7 @@
 function TailwindCss() {
   return (
     <div>
+      
         <h1 className='bg-amber-500'>Background Color</h1>
 
         <h1 className='text-green-500'>Text Color</h1>
