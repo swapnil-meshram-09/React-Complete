@@ -1,0 +1,23 @@
+.bg{
+    background-color: aqua;
+}
+
+#colors{
+    background-color: blue;
+    color:red;
+}
+
+#colors2{
+    background-color: rgb(145, 255, 0);
+    color:red;
+}
+
+h1 {
+    background-color: rgb(229, 255, 0);
+    color:red;
+}
+
+h2 {
+    background-color: rgb(255, 0, 0);
+    color:rgb(255, 255, 255);
+}

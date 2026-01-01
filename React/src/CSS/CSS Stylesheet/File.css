@@ -1,0 +1,18 @@
+.style{
+    background-color: red;
+    color:white;
+    font-family: serif;
+}
+
+#style{
+    background-color: aqua;
+    color:white;
+}
+
+h1{
+    background-color:cornflowerblue;
+}
+
+h2{
+    background-color: chartreuse;
+}
