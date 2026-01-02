@@ -50,6 +50,40 @@ function App() {
     <h1>App</h1>
 
 
+        {/* <Form /> */}
+
+        {/* <Number /> */}
+
+        {/* <Form /> */}
+
+        {/* <String /> */}
+
+        {/* <Array /> */}
+
+        {/* <Object /> */}
+
+
+
+        {/* <Local /> */}
+
+
+
+        {/* <Fetch /> */}
+
+        {/* <Axios1 /> */}
+
+
+
+
+        {/* <Link1 /> */}
+        
+        {/* <Route1 /> */}
+
+
+        {/* <UseParams /> */}
+
+
+
     {/* <Actual /> */}
 
     {/* <CheckContext /> */}
@@ -73,11 +107,6 @@ function App() {
     {/* <File /> */}
 
 
-
-
-
-
-     
     </>
   )
 }
