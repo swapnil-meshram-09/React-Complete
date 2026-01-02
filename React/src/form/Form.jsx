@@ -5,7 +5,6 @@ function Form(){
     const [title, setTitle] = useState('')
 
     return(
-
         <>
         <form action="" onSubmit={(e)=>{
             e.preventDefault()
