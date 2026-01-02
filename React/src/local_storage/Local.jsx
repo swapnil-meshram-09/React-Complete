@@ -6,7 +6,7 @@ function Local(){
 
 
 
-    const user = localStorage.getItem('user')
+    // const user = localStorage.getItem('user')
 
     //console.log(user);
 
