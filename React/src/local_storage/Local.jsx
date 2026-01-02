@@ -1,14 +1,6 @@
 function Local(){
 
-    // localStorage.clear()
-
-    // sessionStorage.clear()
-
-
-
-
     // local Storage of browser
-
 
     localStorage.setItem('user1','name')
 
@@ -45,8 +37,6 @@ function Local(){
 
 
 
-
-
     // changing string to object
 
     const c2 = JSON.parse(c1)
@@ -56,11 +46,7 @@ function Local(){
 
 
 
-
-
     // session storage
-
-
 
     sessionStorage.setItem('age','20')
 
