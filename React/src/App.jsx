@@ -2,10 +2,10 @@
 
 // import Form from './form/Form'
 
-// import Number from './hooks/usestate/Number'
-// import String from './hooks/usestate/String'
-// import Array from './hooks/usestate/Array'
-// import Object from './hooks/usestate/Object'
+// import UseState from "./Hooks/UseState/UseState"
+// import Question1 from "./Hooks/UseState/Question1"
+// import UseEffect from "./Hooks/UseEffect/UseEffect"
+
 
 // import Local from './local_storage/Local'
 
@@ -17,10 +17,6 @@
 
 // import UseParams from './Routing/useparams/UseParams'
 // import UseNavigate from './Routing/usenavigate/UseNavigate'
-
-
-// import UseEffect from './hooks/useeffect/useEffect'
-
 
 
 // import Actual from './Props/Top-Down/Actual'
