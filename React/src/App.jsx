@@ -19,6 +19,13 @@
 // import UseNavigate from './Routing/usenavigate/UseNavigate'
 
 
+// import Default from "./Props/Default"
+// import {Default2} from "./Props/Default"
+// import String from "./Props/String"
+// import Number from "./Props/Number"
+// import Array from "./Props/Array"
+//import Object from "./Props/Object"
+
 // import Actual from './Props/Top-Down/Actual'
 // import Actual from './Props/Bottom-Up/Actual'
 // import Actual from './Props/Children/Actual'
